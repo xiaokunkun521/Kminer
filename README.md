@@ -12,6 +12,12 @@ Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为
 4. 钱包模板填写：`%WAL%.%WORKER_NAME%`
 5. 挖矿地址：`prl.kryptex.network:7048`
 
+| GPU | PRL 参考算力 |
+|-----|:------------:|
+| RTX 5080 | ~225 TH/s |
+| RTX 4070 Ti | ~155 TH/s |
+| RTX 4070 s | ~140 TH/s |
+| RTX 3060 Ti | ~65 TH/s |
 
 | Generation | Cards |
 |---|---|
