@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="assets/kminer_logo.png" width="130" alt="Kminer logo">
-</p>
-
-<h1 align="center">Kminer</h1>
-
-<p align="center"><b>High-performance native NVIDIA miner for Pearl (PRL)</b></p>
-
----
 
 ## Overview
 Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为 Pearl（PRL / PearlHash）算法优化。
