@@ -7,7 +7,11 @@ Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为
 
 ## HiveOS 使用方式
 1. 新建自定义矿工工作表单
-3. 钱包模板填写：`%WAL%.%WORKER_NAME%`
+2. 算法：`pearlhash`
+3. 下载地址:``
+4. 钱包模板填写：`%WAL%.%WORKER_NAME%`
+5. 挖矿地址：`prl.kryptex.network:7048`
+
 
 | Generation | Cards |
 |---|---|
