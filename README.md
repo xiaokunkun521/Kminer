@@ -34,3 +34,6 @@ Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为
 > 这是一个作者自己在用的项目，有任何使用问题加入我们的 Telegram 提交，作者会在第一时间修复。
 >
 > Telegram：[https://t.me/KKminer521](https://t.me/KKminer521)
+>
+> <img width="1387" height="401" alt="acee245c-9734-46b4-bd53-7973f986b2d9" src="https://github.com/user-attachments/assets/f4632625-f798-4d48-a1a5-e2f15f7b08ba" />
+
