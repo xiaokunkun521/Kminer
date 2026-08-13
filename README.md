@@ -23,3 +23,7 @@ Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为
 | **Volta** | Tesla V100 |
 | **Pascal** | GTX 10-series · P102-100 · P104-100 · P106 · P108 (mining cards) |
 | **CMP** | 90HX · 50HX · 40HX · 30HX *(driver 545+)* |
+
+> 这是一个作者自己在用的项目，有任何使用问题加入我们的 Telegram 提交，作者会在第一时间修复。
+>
+> Telegram：[https://t.me/KKminer521](https://t.me/KKminer521)
