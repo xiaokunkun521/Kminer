@@ -16,8 +16,8 @@ Kminer 是基于CUDA驱动API开发的高性能NVIDIA显卡挖矿程序，专为
 |-----|:------------:|
 | RTX 5080 | ~225 TH/s |
 | RTX 4070 Ti_S | ~183 TH/s |
-| RTX 4070 Ti | ~163 TH/s |
-| RTX 4070 s | ~142 TH/s |
+| RTX 4070 Ti | ~172 TH/s |
+| RTX 4070 s | ~151 TH/s |
 | RTX 3060 Ti | ~65 TH/s |
 | CMP50HX | ~65 TH/s |
 
